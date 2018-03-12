@@ -1,7 +1,7 @@
 
 # Medical Assistant Chatbot
 
-The medical assistant bot is a personal assitant which helps users identify their medical problem. Based on your responses and symptoms provided, the bot recommends the user a specialist or a generalist doctor. It takes into account the user location and medical history or any other details previously provided.
+The medical assistant bot is a personal assistant which helps users identify their medical problem. Based on your responses and symptoms provided, the bot recommends the user a specialist or a generalist doctor. It takes into account the user location and medical history or any other details previously provided.
 
 ## Architecture
 
