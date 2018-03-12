@@ -3,6 +3,10 @@
 
 The medical assistant bot is a personal assitant which helps users identify their medical problem. Based on your responses and symptoms provided, the bot recommends the user a specialist or a generalist doctor. It takes into account the user location and medical history or any other details previously provided.
 
+## Architecture
+
+![Start Screen](https://github.com/kanjain/pubnub-medicalbot-demo/medical-bot-assistant-pubnub-architecture.jpg "Title Screen")
+
 ## Use of PubNub ChatEngine:
 PubNub chat-engine is a layer on top of the core pubnub publish/subscribe. It allows creating a chat-client very seamless. The additional features are integration with PubNub presence features such as identifying if the user is online and indicating if the user is typing. All these features alone require a good amount of plumbing but with ChatEngine this becomes much simpler.
 
