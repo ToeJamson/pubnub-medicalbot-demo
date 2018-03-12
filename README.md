@@ -33,3 +33,6 @@ The medical chatbot is not a stand-alone service that does it all. It needs othe
 The API reference for better-doctor can be found below.
 https://developer.betterdoctor.com/code-samples
 
+More details on the architecture and vision of the project can be found in my blog below.
+https://medium.com/@kanika.aspirant/building-a-chatbot-with-pubnub-chatengine-and-blocks-895a89259086
+
